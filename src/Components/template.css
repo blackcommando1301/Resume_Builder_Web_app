@@ -1,0 +1,9 @@
+.img-template{
+    position: relative;
+}
+
+.buttonSelect{
+   position:absolute;
+   left: 30%;
+   bottom:5%
+}
